@@ -38,6 +38,7 @@ body {
 	font-family: "Work Sans", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	scroll-behavior: smooth;
 }
 
 h1,
@@ -110,6 +111,9 @@ ol {
 	margin: 0;
 }
 
+.primary-btn:hover{
+	color: #ebebeb;
+}
 
 
 /*---------------------
