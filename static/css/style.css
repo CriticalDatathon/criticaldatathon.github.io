@@ -2492,6 +2492,9 @@ thead tr th {
 		margin-top: 10px;
 		position: relative;
 	}
+	.li-text h5 a{
+		font-size: smaller;
+	}
 }
 
 /* Small Mobile: 320px */
@@ -2501,6 +2504,11 @@ thead tr th {
 	.hero-section .hero-text h2 {
 		font-size: 36px;
 		line-height: normal;
+		box-shadow: 0px 0px 30px rgba(79, 84, 139, 0.15);
+		
+	}
+	.li-text h5 a{
+		font-size: smaller;
 	}
 	.newslatter-inner {
 		padding: 60px 20px 48px;
