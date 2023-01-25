@@ -111,6 +111,7 @@ ol {
 	margin: 0;
 }
 
+.primary-btn i:hover,
 .primary-btn:hover{
 	color: #ebebeb;
 }
@@ -402,8 +403,8 @@ ol {
 }
 
 .hero-section .hero-text {
-	padding-top: 184px;
-	padding-bottom: 170px;
+	padding-top: 60px;
+	padding-bottom: 70px;
 }
 
 .hero-section .hero-text span {
@@ -893,6 +894,20 @@ ol {
 	transition: all 0.3s;
 }
 
+#Challenge.home-about-section {
+	background: #f4f6f8;
+}
+
+#Mentors h2 {
+	margin-top: 50px;
+}
+
+#Partners.team-member-section{
+	padding-bottom: 0px;
+	padding-top: 100px;
+}
+
+
 /*---------------------
   Latest Blog
 -----------------------*/
@@ -1155,7 +1170,7 @@ ol {
 
 .footer-section {
 	background: #171822;
-	padding-top: 50px;
+	padding-top: 40px;
 	padding-bottom: 60px;
 }
 
