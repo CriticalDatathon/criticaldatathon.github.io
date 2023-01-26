@@ -907,6 +907,17 @@ ol {
 	padding-top: 100px;
 }
 
+#main_partner {
+	padding-top: 10px;
+	padding-bottom: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+#main_partner img {
+	width: 20%;
+}
+
 
 /*---------------------
   Latest Blog
