@@ -6,6 +6,7 @@ mentors = pd.read_csv("data/mentors.csv")
 partners = pd.read_csv("data/partners.csv")
 sch1 = pd.read_csv("data/schedule_day1.csv")
 sch2 = pd.read_csv("data/schedule_day2.csv")
+net = pd.read_csv("data/network.csv")
 
 app = Flask(__name__)
 Bootstrap(app)
@@ -16,7 +17,8 @@ def index():
                            n_mentors=len(mentors), mentors=mentors,
                            n_partners=len(partners), partners=partners,
                            n_s1=len(sch1), sch1=sch1,
-                           n_s2=len(sch2), sch2=sch2)
+                           n_s2=len(sch2), sch2=sch2,
+                           n_net=len(net), net=net)
 
 if __name__ == '__main__':
     app.run(use_reloader = True, debug=True)

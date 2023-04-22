@@ -183,6 +183,12 @@ ol {
 	background-image: linear-gradient(120deg, #a31f34 0%, #a31f34 100%), linear-gradient(120deg, #a31f34 0%, #a31f34 100%);
 }
 
+#button-center {
+	text-align: center;
+}
+
+
+
 /* buttons */
 
 .primary-btn {
@@ -196,6 +202,21 @@ ol {
 	background-image: -webkit-gradient(linear, left top, right top, from(#a31f34), to(#a31f34)), -webkit-gradient(linear, left top, right top, from(#a31f34), to(#a31f34));
 	background-image: -o-linear-gradient(left, #a31f34 0%, #a31f34 100%), -o-linear-gradient(left, #a31f34 0%, #a31f34 100%);
 	background-image: linear-gradient(to right, #a31f34 0%, #a31f34 100%), linear-gradient(to right, #a31f34 0%, #a31f34 100%);
+}
+
+#button-center{
+	text-align: center;
+	margin: 20px 0;
+
+}
+
+#col-butt{
+	text-align: center;
+	margin: 20px 0;
+}
+
+#Networking{
+	padding: 100px 0 0 0; 
 }
 
 .site-btn {
@@ -571,6 +592,13 @@ ol {
 }
 
 .member-item {
+	width: 10%;
+	float: left;
+	height: 200px;
+	position: relative;
+	overflow: hidden;
+}
+#Networking .member-item {
 	width: 20%;
 	float: left;
 	height: 420px;
@@ -614,7 +642,7 @@ ol {
 
 .member-item .mi-text {
 	background: #ffffff;
-	padding: 16px 0 18px 25px;
+	padding: 10px 5px;
 	position: absolute;
 	left: -500px;
 	bottom: 20px;
@@ -624,14 +652,28 @@ ol {
 	transition: all 0.5s ease-out;
 }
 
+
 .member-item .mi-text h5 {
-	font-size: 20px;
+	font-size: 14px;
 	color: #171822;
 	font-weight: 600;
 	margin-bottom: 5px;
 }
 
 .member-item .mi-text span {
+	font-size: 10px;
+	color: #f44949;
+	display: block;
+}
+
+#Networking .member-item .mi-text h5 {
+	font-size: 20px;
+	color: #171822;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+#Networking .member-item .mi-text span {
 	font-size: 16px;
 	color: #f44949;
 	display: block;
@@ -896,6 +938,14 @@ ol {
 
 #Challenge.home-about-section {
 	background: #f4f6f8;
+}
+
+#Schedule {
+	background: #f4f6f8;
+}
+
+#Networking {
+	background: #fff;
 }
 
 #Mentors h2 {
@@ -2314,8 +2364,8 @@ thead tr th {
 		padding-top: 0;
 	}
 	.member-item {
-		width: 25%;
-		height: 310px;
+		width: 15%;
+		height: 200px;
 	}
 	.testimonial-slider.owl-carousel .owl-nav button {
 		left: -10px;
@@ -2421,7 +2471,7 @@ thead tr th {
 		margin-bottom: 20px;
 	}
 	.member-item {
-		width: 33.33%;
+		width: 20%;
 	}
 }
 
@@ -2432,7 +2482,7 @@ thead tr th {
 		margin-bottom: 10px;
 	}
 	.member-item {
-		width: 50%;
+		width: 20%;
 	}
 	.newslatter-inner {
 		padding: 60px 50px 48px;
@@ -2547,8 +2597,13 @@ thead tr th {
 		width: 50%;
 	}
 	.member-item {
+		width: 33.3%;
+	}
+
+	#Networking .member-item {
 		width: 100%;
 	}
+
 	.newslatter-inner .ni-form {
 		width: 100%;
 	}
