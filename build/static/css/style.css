@@ -912,10 +912,13 @@ ol {
 	padding-bottom: 50px;
 	display: flex;
 	justify-content: center;
+
 }
 
 #main_partner img {
-	width: 20%;
+	padding-left: 20px;
+	padding-right: 20px;
+	object-fit: contain;
 }
 
 

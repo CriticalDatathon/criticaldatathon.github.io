@@ -1,9 +1,10 @@
-﻿Name,Photo,Affiliation
+Name,Photo,Affiliation
 Adrien Carrel,static/img/mentors/carrel.png,"Imperial College London, Université Paris-Saclay"
 Amélie Forgeot D'Arc,static/img/mentors/forgeot.jpeg,"SafeTeam Academy, Patient Safety Database"
 Andre Kurepa Waschka,static/img/mentors/waschka.png,"Mercer University"
 Anirban Bhattacharyya,static/img/mentors/bhattacharyya.jpg,Senior Associate Consultant Critical Care and Assistant Professor or Medicine
 Barbara Lam,static/img/mentors/lam.jpg,Beth Israel Deaconess Medical Center
+Beatrice Brown-Mulry,static/img/mentors/brown.png,Emory University
 Brian Gow,static/img/mentors/gow.jpeg,MIT Laboratory for Computational Physiology
 Brian Malley,static/img/mentors/malley.jpg,"CRISMA Center, University of Pittsburgh" 
 Charles Senteio,static/img/mentors/senteio.jpg,Rutgers University School of Communication and Information
@@ -34,10 +35,12 @@ Michael Scanlan,static/img/mentors/scanlan.png,MIT Laboratory for Computational 
 Mingying Yang,static/img/mentors/yang.jpg,MIT EECS
 Mira Moukheiber,static/img/mentors/mira.png,MIT
 Pablo Moreno Franco,static/img/mentors/franco.jpg,Chair Critical Care and Chair Quality Mayo Clinic Florida
+Peter Tremain,static/img/mentors/tremain.jpg,"The University of Auckland, Auckland Bioengineering Institute"
 Rakesh Shiradkar,static/img/mentors/shiradkar.jpg,"Emory University, Georgia Institute of Technology"
 Sicheng Hao,static/img/mentors/hao.png,MIT Laboratory for Computational Physiology
 Skyler Shapiro,static/img/mentors/shapiro.png,"MIT Laboratory for Computational Physiology, Cornell University" 
 Tiffany Wang,static/img/mentors/wang.jpeg,Ronald Reagan UCLA Medical Center
+Tom Pollard,static/img/mentors/pollard.jpg,MIT Laboratory for Computational Physiology
 Tristan Struja,static/img/mentors/struja.jpeg,"Medical University Clinic Aarau Switzerland, MIT Laboratory for Computational Physiology"
 Valencia Koomson,static/img/mentors/koomson.jpg,Tufts University
 Xiaomeng Ma,static/img/mentors/ma.png,"Institute of Health Policy Management and Evaluation, University of Toronto"
