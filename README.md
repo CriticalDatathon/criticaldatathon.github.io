@@ -1,6 +1,4 @@
-# MIT Health Datathon 2023 Website
-
-(still in progress)
+# MIT Critical Datathon 2023 Website
 
 To run this project locally:
 
